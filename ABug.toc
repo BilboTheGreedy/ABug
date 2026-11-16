@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: ABug
+## Notes: Catches Lua errors and blocked actions and keeps them for later
+## Version: 0.1.0
+## Category: Development
+## IconTexture: Interface\Icons\INV_Misc_Bomb_05
+## SavedVariables: ABugDB
+
+Core.lua
+Window.lua
